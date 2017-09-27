@@ -9,6 +9,11 @@
     background: #c5ecbe !important;
 }
 
+.text-secondary,
+.text-secondary a
+{
+    color: #c5ecbe !important;
+}
 
 
 body {
