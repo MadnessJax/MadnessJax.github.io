@@ -1,12 +1,21 @@
+/* TODO place in right bootstrap files etc */
+
+.bg-primary {
+    background: #9f0307 !important;
+}
+
+
+.bg-secondary {
+    background: #c5ecbe !important;
+}
+
+
+
 body {
     background: #f7f7f7;
 }
 body p {
     font-size: 15px;
-}
-
-.bg-primary {
-    background-color: #ffffff !important;
 }
 
 header {
